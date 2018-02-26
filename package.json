@@ -1,0 +1,12 @@
+{
+  "name": "eslint-table-formatter-silencer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Loymax",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "pluralize": "^7.0.0",
+    "table": "^4.0.3"
+  }
+}
